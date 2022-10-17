@@ -1,5 +1,7 @@
 # Sound Board
 
+https://normstraker.github.io/Sound-Board/
+
 - buttons when clicked play the labelled sound
 
 ## HTML
@@ -17,5 +19,3 @@
 - appendChild()
 - pause()
 - currentTime = 0;
-
-https://normstraker.github.io/Sound-Board/
